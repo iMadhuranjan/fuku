@@ -1,4 +1,4 @@
-   "version": 2,
+{   "version": 2,
    "name": "msrtc backend",
    "builds": [
       { "src": "app.js", "use": "@vercel/node" }
